@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Julian Aramburu</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Thu, 06 Aug 2020 12:35:41 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6727a73e535f22c30b5cfda68bc8580b_2063_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>The Effect of Affirmative Action on Workers&#39; Outcomes</title>
+      <link>/publication/affirmative/</link>
+      <pubDate>Thu, 06 Aug 2020 12:35:41 -0500</pubDate>
+      <guid>/publication/affirmative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coding Bootcamps for Female Digital Employment: Evidence from an RCT in Argentina and Colombia</title>
+      <link>/publication/bootcamp/index-julians-macbook-pro.locals-conflicted-copy-2021-01-29/</link>
+      <pubDate>Thu, 06 Aug 2020 12:35:29 -0500</pubDate>
+      <guid>/publication/bootcamp/index-julians-macbook-pro.locals-conflicted-copy-2021-01-29/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sweeping the Flies Away: Evidence from a Fruit Fly Eradication Program</title>
+      <link>/publication/mosca/</link>
+      <pubDate>Thu, 06 Aug 2020 12:35:13 -0500</pubDate>
+      <guid>/publication/mosca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct and Spillover Effects of Agricultural Technology Adoption Programs: Experimental Evidence from the Dominican Republic</title>
+      <link>/publication/patca/</link>
+      <pubDate>Sat, 01 Jun 2019 12:34:05 -0500</pubDate>
+      <guid>/publication/patca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sowing for Food Security: A Case Study of Smallholder Farmers in Bolivia</title>
+      <link>/publication/criar/</link>
+      <pubDate>Sun, 06 Nov 2016 12:35:55 -0500</pubDate>
+      <guid>/publication/criar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

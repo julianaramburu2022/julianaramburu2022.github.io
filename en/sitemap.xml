@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/publication-type/0/</loc>
+    <lastmod>2020-08-06T12:35:55-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/criar/</loc>
+    <lastmod>2020-08-06T12:35:55-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-08-06T12:35:55-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-08-06T12:35:55-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/affirmative/</loc>
+    <lastmod>2020-08-06T12:35:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bootcamp/</loc>
+    <lastmod>2020-08-06T12:35:29-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/mosca/</loc>
+    <lastmod>2020-08-06T12:35:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/3/</loc>
+    <lastmod>2019-06-01T12:34:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alessandro-maffioli/</loc>
+    <lastmod>2019-06-01T12:34:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-06-01T12:34:05-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/author/cesar-augusto-lopez/</loc>
+    <lastmod>2019-06-01T12:34:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/patca/</loc>
+    <lastmod>2019-06-01T12:34:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/joint-with-lucas-figal-garone/</loc>
+    <lastmod>2019-06-01T12:34:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lina-salazar/</loc>
+    <lastmod>2019-06-01T12:34:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/author/julian-aramburu/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+  </url>
+  
+</urlset>
