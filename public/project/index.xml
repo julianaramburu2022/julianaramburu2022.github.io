@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Julian Aramburu</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Mon, 10 Aug 2020 12:24:13 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Universidad De Buenos Aires</title>
+      <link>/project/universidad-de-buenos-aires/</link>
+      <pubDate>Mon, 10 Aug 2020 12:24:13 -0500</pubDate>
+      <guid>/project/universidad-de-buenos-aires/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yale</title>
+      <link>/project/yale/</link>
+      <pubDate>Mon, 10 Aug 2020 12:23:59 -0500</pubDate>
+      <guid>/project/yale/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

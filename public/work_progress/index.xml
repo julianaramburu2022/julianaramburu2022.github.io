@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work_progresses | Julian Aramburu</title>
+    <link>/work_progress/</link>
+      <atom:link href="/work_progress/index.xml" rel="self" type="application/rss+xml" />
+    <description>Work_progresses</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Thu, 06 Aug 2020 12:35:41 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Work_progresses</title>
+      <link>/work_progress/</link>
+    </image>
+    
+    <item>
+      <title>Affirmative</title>
+      <link>/work_progress/affirmative/</link>
+      <pubDate>Thu, 06 Aug 2020 12:35:41 -0500</pubDate>
+      <guid>/work_progress/affirmative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bootcamp</title>
+      <link>/work_progress/bootcamp/</link>
+      <pubDate>Thu, 06 Aug 2020 12:35:29 -0500</pubDate>
+      <guid>/work_progress/bootcamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct and Spillover Effects of Agricultural Technology Adoption Programs: Experimental Evidence from the Dominican Republic</title>
+      <link>/work_progress/patca/</link>
+      <pubDate>Sat, 01 Jun 2019 12:34:05 -0500</pubDate>
+      <guid>/work_progress/patca/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

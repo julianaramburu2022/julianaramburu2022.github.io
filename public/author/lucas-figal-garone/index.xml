@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucas Figal Garone | Academic</title>
+    <link>/author/lucas-figal-garone/</link>
+      <atom:link href="/author/lucas-figal-garone/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lucas Figal Garone</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 12:34:05 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Lucas Figal Garone</title>
+      <link>/author/lucas-figal-garone/</link>
+    </image>
+    
+    <item>
+      <title>Direct and spillover effects of agricultural technology adoption programs: Experimental evidence from the Dominican Republic</title>
+      <link>/publication/patca/</link>
+      <pubDate>Sat, 01 Jun 2019 12:34:05 -0500</pubDate>
+      <guid>/publication/patca/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

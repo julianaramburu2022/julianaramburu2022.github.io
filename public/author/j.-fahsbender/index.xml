@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Fahsbender | Julian Aramburu</title>
+    <link>/author/j.-fahsbender/</link>
+      <atom:link href="/author/j.-fahsbender/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Fahsbender</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Thu, 06 Aug 2020 12:35:13 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6727a73e535f22c30b5cfda68bc8580b_2063_512x512_fill_lanczos_center_2.png</url>
+      <title>J. Fahsbender</title>
+      <link>/author/j.-fahsbender/</link>
+    </image>
+    
+    <item>
+      <title>Sweeping the Flies Away: Evidence from a Fruit Fly Eradication Program</title>
+      <link>/publication/mosca/</link>
+      <pubDate>Thu, 06 Aug 2020 12:35:13 -0500</pubDate>
+      <guid>/publication/mosca/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
