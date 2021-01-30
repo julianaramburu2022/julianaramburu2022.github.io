@@ -87,8 +87,6 @@ user_groups:
 - Visitors
 ---
 
-
-
 I am a Ph.D. candidate in Economics at [Yale University](https://economics.yale.edu). My research agenda includes projects in labor, development, and agricultural economics.
 
 In my current work, I study the effects that different types of labor market policies have on workers from under-represented groups. In one of my projects, joint with [Noriko Amano-Patino](https://sites.google.com/view/noriko-amanopatino/home?authuser=0) and [Zara Contractor](https://economics.yale.edu/people/graduate-students/zara-contractor), I analyze how the most widespread employer-based affirmative action regulation in the U.S. impacts the employment prospects and earnings of minority workers. To do so, we leverage large-scale, restricted-access Census data and other administrative datasets in a quasi-experimental study of firms that are subject to the regulation. In another project, I partner with [The World Bank](https://www.worldbank.org/) and two training centers in Argentina and Colombia to study the effectiveness of coding _bootcamps_ for women. We use a randomized control trial to measure the impacts of the training on participants' skills and entry into a career in technology. 
