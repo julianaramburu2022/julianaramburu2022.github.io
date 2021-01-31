@@ -56,7 +56,7 @@ social:
 
 - icon: cv
   icon_pack: ai
-  link: https://www.julianaramburu.com/sites/AramburuCV.pdf
+  link: https://www.julianaramburu.com/files/AramburuCV.pdf
 
 - icon: google-scholar
   icon_pack: ai
