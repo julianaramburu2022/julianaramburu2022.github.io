@@ -75,5 +75,5 @@ subtitle = ""
  css_class = ""
 +++
 
-Click [here](https://julianaramburu.com/files/AramburuCV.pdf) to see my CV. If you are interested in a summary of my work experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/julian-aramburu-ab109b22/) or email me to request a copy of my _resume_.
+Click [here](https://www.julianaramburu.com/files/AramburuCV.pdf) to see my CV. If you are interested in a summary of my work experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/julian-aramburu-ab109b22/) or email me to request a copy of my _resume_.
 
