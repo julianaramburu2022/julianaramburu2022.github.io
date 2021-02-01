@@ -36,6 +36,9 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
+links:
+- name: Article
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0306919216304419
 url_pdf:
 url_code:
 url_dataset:

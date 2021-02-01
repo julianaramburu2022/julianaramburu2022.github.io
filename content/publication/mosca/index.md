@@ -36,6 +36,9 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
+links:
+- name: Article
+  url: https://academic.oup.com/erae/article/47/5/1920/5904964?guestAccessKey=9f8fd60a-c00e-4058-8584-d3af1619ce36
 url_pdf:
 url_code:
 url_dataset:
