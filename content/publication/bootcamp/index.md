@@ -22,7 +22,7 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "This paper evaluates the short-term causal effects of a high-quality, intensive, part-time, computer coding bootcamp for women on skill acquisition and employment outcomes on a sample of participants in Buenos Aires, Argentina, and in Bogotá, Colombia. We offer spots in an over-subscribed coding course to a random subset of applicants. Chosen applicants receive a scholarship that covers most of the tuition costs of the course. We measure the impacts of the bootcamp on participants' coding skills, as well as on their probability of finding a job in technology. Moreover, we compare the employment situation of our sample before and during the first months of the COVID-19 outbreak to investigate whether the program increased participants' resilience to a downturn in the labor market."
+summary: "This paper evaluates the short-term causal effects of a high-quality, intensive, part-time, computer coding bootcamp for women on skill acquisition and employment outcomes on a sample of participants in Buenos Aires, Argentina, and in Bogota, Colombia. We offer spots in an over-subscribed coding course to a random subset of applicants. Chosen applicants receive a scholarship that covers most of the tuition costs of the course. We measure the impacts of the bootcamp on participants' coding skills, as well as on their probability of finding a job in technology. Moreover, we compare the employment situation of our sample before and during the first months of the COVID-19 outbreak to investigate whether the program increased participants' resilience to a downturn in the labor market."
 
 tags: []
 categories: []
