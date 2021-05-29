@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Coding Bootcamps for Female Digital Employment: Evidence from an RCT in Argentina and Colombia"
-authors: [<b><i>Draft Coming Soon</i></b> - joint with Ana Goicoechea (The World Bank) and Mushfiq Mobaraq (Yale)]
+authors: [Draft Coming Soon - joint with Ana Goicoechea (The World Bank) and Mushfiq Mobaraq (Yale)]
 date: 2020-08-06T12:35:29-05:00
 doi: ""
 
