@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Coding Bootcamps for Female Digital Employment: Evidence from an RCT in Argentina and Colombia"
-authors: [*Draft Coming Soon* - joint with Ana Goicoechea (The World Bank) and Mushfiq Mobaraq (Yale)]
+authors: [New Working Paper, June 2021 - joint with Ana Goicoechea (The World Bank) and Mushfiq Mobaraq (Yale)]
 date: 2020-08-06T12:35:29-05:00
 doi: ""
 
@@ -22,7 +22,7 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "This paper evaluates the short-term causal effects of a high-quality, intensive, part-time computer coding bootcamp for women on skill acquisition and employment outcomes. Spots were offered in an oversubscribed coding course to a random subset of applicants in Buenos Aires, Argentina, and Bogota, Colombia. The applicants who were chosen received a scholarship that covered most of the tuition costs of the course. Follow-up data collected shortly after the bootcamp ended indicate that the program increased participants? coding skills, as well as their probability of finding a job in technology. Compared with other jobs, technology jobs are more likely to offer flexible hours and work-from-home arrangements, and generate higher job satisfaction. These results are interpreted as an improvement in overall job quality. Moreover, the paper compares the employment situation of the sample before and during the first months of the COVID-19 outbreak. The evidence indicates that the program increased participants? resilience to a downturn in the labor market."
+summary: "This paper evaluates the short-term causal effects of a high-quality, intensive, part-time computer coding bootcamp for women on skill acquisition and employment outcomes. Spots were offered in an oversubscribed coding course to a random subset of applicants in Buenos Aires, Argentina, and Bogota, Colombia. The applicants who were chosen received a scholarship that covered most of the tuition costs of the course. Follow-up data collected shortly after the bootcamp ended indicate that the program increased participants' coding skills, as well as their probability of finding a job in technology. Compared with other jobs, technology jobs are more likely to offer flexible hours and work-from-home arrangements, and generate higher job satisfaction. These results are interpreted as an improvement in overall job quality. Moreover, the paper compares the employment situation of the sample before and during the first months of the COVID-19 outbreak. The evidence indicates that the program increased participants' resilience to a downturn in the labor market."
 
 tags: []
 categories: []

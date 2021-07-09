@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Working Paper | Julian Aramburu</title>
+    <link>/author/new-working-paper/</link>
+      <atom:link href="/author/new-working-paper/index.xml" rel="self" type="application/rss+xml" />
+    <description>New Working Paper</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Thu, 06 Aug 2020 12:35:29 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6727a73e535f22c30b5cfda68bc8580b_2063_512x512_fill_lanczos_center_2.png</url>
+      <title>New Working Paper</title>
+      <link>/author/new-working-paper/</link>
+    </image>
+    
+    <item>
+      <title>Coding Bootcamps for Female Digital Employment: Evidence from an RCT in Argentina and Colombia</title>
+      <link>/publication/bootcamp/</link>
+      <pubDate>Thu, 06 Aug 2020 12:35:29 -0500</pubDate>
+      <guid>/publication/bootcamp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
