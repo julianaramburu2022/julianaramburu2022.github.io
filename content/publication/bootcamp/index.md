@@ -22,7 +22,7 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "This paper evaluates the short-term causal effects of a high-quality, intensive, part-time, computer coding bootcamp for women on skill acquisition and employment outcomes. We offer spots in an over-subscribed coding course to a random subset of applicants in Buenos Aires, Argentina, and in Bogota, Colombia. Chosen applicants receive a scholarship that covers most of the tuition costs of the course. A follow-up data collected shortly after the bootcamp ended indicates that the program increased participants? coding skills, as well as their probability of finding a job in technology. Compared to other jobs, technology jobs are more likely to offer flexible hours and work-from-home arrangements, and generate a higher job satisfaction. We interpret this as an improvement in overall job quality. Moreover, we compare the employment situation of our sample before and during the first months of the COVID-19 outbreak. The evidence indicates that the program increases participants? resilience to a downturn in the labor market."
+summary: "This paper evaluates the short-term causal effects of a high-quality, intensive, part-time computer coding bootcamp for women on skill acquisition and employment outcomes. Spots were offered in an oversubscribed coding course to a random subset of applicants in Buenos Aires, Argentina, and Bogota, Colombia. The applicants who were chosen received a scholarship that covered most of the tuition costs of the course. Follow-up data collected shortly after the bootcamp ended indicate that the program increased participants? coding skills, as well as their probability of finding a job in technology. Compared with other jobs, technology jobs are more likely to offer flexible hours and work-from-home arrangements, and generate higher job satisfaction. These results are interpreted as an improvement in overall job quality. Moreover, the paper compares the employment situation of the sample before and during the first months of the COVID-19 outbreak. The evidence indicates that the program increased participants? resilience to a downturn in the labor market."
 
 tags: []
 categories: []
@@ -30,9 +30,9 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
+links:
+ - name: Working Paper
+   url: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/670761624977598623/coding-bootcamps-for-female-digital-employment-evidence-from-an-rct-in-argentina-and-colombia
 #   icon_pack: fab
 #   icon: twitter
 
