@@ -87,8 +87,8 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. candidate in Economics at [Yale University](https://economics.yale.edu).
+I am a Ph.D. candidate in Economics at Yale University. I will join Amazon as an Economist in the Summer of 2022.
 
-In my current work, I study the effects of labor market policies on workers from underrepresented groups. In one of my projects, I analyze how the most widespread employer-based affirmative action regulation in the U.S. impacts the employment prospects and earnings of minority workers. In another project, I partner with [The World Bank](https://www.worldbank.org/) to implement a randomized control trial to study the effectiveness of coding bootcamps for women.  
+In my current work, I study the effects of labor market policies on workers from underrepresented groups. In one of my projects, I analyze how the most widespread employer-based affirmative action regulation in the U.S. impacts the employment prospects and earnings of minority workers. In another project, I partner with The World Bank to implement a randomized control trial to study the effectiveness of coding bootcamps for women.  
 
-Before joining Yale, I worked for three years as an impact evaluation consultant in the Rural Development unit at the [Inter-American Development Bank (IADB)](https://www.iadb.org/en/about-us/overview). 
+Before joining Yale, I worked for three years as an impact evaluation consultant in the Rural Development unit at the Inter-American Development Bank (IADB). 
