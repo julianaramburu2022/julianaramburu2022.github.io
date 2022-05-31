@@ -30,7 +30,7 @@ education:
   courses:
   - course: Ph.D. in Economics
     institution: Yale University
-    year: expected 2022 
+    year: 2022 
   - course: M.Phil. in Economics
     institution: Yale University
     year: 2018
