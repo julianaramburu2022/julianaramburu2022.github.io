@@ -10,12 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate in Economics
+role: Incoming Economist
 
 # Organizations/Affiliations
 organizations:
-- name: Yale University
-  url: "https://economics.yale.edu"
+- name: Amazon
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests XX.
