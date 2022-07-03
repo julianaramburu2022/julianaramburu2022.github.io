@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Incoming Economist
+role: Economist
 
 # Organizations/Affiliations
 organizations:
@@ -88,8 +88,8 @@ user_groups:
 
 Welcome to my website!
 
-I recently obtained my Ph.D. in Economics from Yale University, and I will soon join Amazon as an Economist.
+I recently joined Amazon as an Economist. I obtained my Ph.D. in Economics from Yale University in May 2022.
 
-In my current academic work, I study the effects of labor market policies on workers from underrepresented groups. In one of my projects, I analyze how the most widespread employer-based affirmative action regulation in the U.S. impacts the employment prospects and earnings of minority workers. In another project, I partner with The World Bank to implement a randomized control trial to study the effectiveness of coding bootcamps for women.  
+In my academic work, I study the effects of labor market policies on workers from underrepresented groups. In one of my projects, I analyze how the most widespread employer-based affirmative action regulation in the U.S. impacts the employment prospects and earnings of minority workers. In another project, I partner with The World Bank to implement a randomized control trial to study the effectiveness of coding bootcamps for women.  
 
 Before joining Yale, I worked for three years as an impact evaluation consultant in the Rural Development unit at the Inter-American Development Bank (IADB). 
