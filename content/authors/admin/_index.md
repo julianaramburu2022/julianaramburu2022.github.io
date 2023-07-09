@@ -33,12 +33,9 @@ education:
   - course: M.Phil. in Economics
     institution: Yale University
     year: 2018
-#  - course: M.A. in Economics
-#    institution: Yale
-#    year: 2017
-  - course: M.S. in Economics
-    institution: Universidad de San Andres
-    year: 2012
+  - course: M.A. in Economics
+    institution: Yale
+    year: 2018
   - course: B.S. in Economics
     institution: Universidad de Buenos Aires
     year: 2011
