@@ -53,10 +53,6 @@ social:
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:julian.aramburu@yale.edu".
 
-- icon: cv
-  icon_pack: ai
-  link: https://www.julianaramburu.com/files/AramburuCV.pdf
-
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=13kN088AAAAJ&hl=en
@@ -88,7 +84,7 @@ user_groups:
 
 I am an Economist II at Amazon. I obtained my Ph.D. in Economics from Yale University in May 2022.
 
-This website is not updated frequently. For updated information on my career, please visit my LinkedIn.
+This website is not updated frequently. For updated information on my career, CV, or publications, please visit my LinkedIn or contact me directly through email.
 
 In my academic work, I study the effects of labor market policies on workers from underrepresented groups. In one of my projects, I analyze how the most widespread employer-based affirmative action regulation in the U.S. impacts the employment prospects and earnings of minority workers. In another project, I partner with The World Bank to implement a randomized control trial to study the effectiveness of coding bootcamps for women.  
 
