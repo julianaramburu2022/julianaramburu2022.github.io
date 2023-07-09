@@ -86,9 +86,9 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my website!
+I am an Economist II at Amazon. I obtained my Ph.D. in Economics from Yale University in May 2022.
 
-I recently joined Amazon as an Economist. I obtained my Ph.D. in Economics from Yale University in May 2022.
+This website is not updated frequently. For updated information on my career, please visit my LinkedIn.
 
 In my academic work, I study the effects of labor market policies on workers from underrepresented groups. In one of my projects, I analyze how the most widespread employer-based affirmative action regulation in the U.S. impacts the employment prospects and earnings of minority workers. In another project, I partner with The World Bank to implement a randomized control trial to study the effectiveness of coding bootcamps for women.  
 
