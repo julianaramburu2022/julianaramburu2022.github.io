@@ -81,12 +81,12 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "julian.aramburu@yale.edu"
+email = "aramburu.julian@gmail.com"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Department of Economics - Yale - 28 Hillhouse Ave.", city = "New Haven", region = "CT", postcode = "06511", country = "United States", country_code = "US"}
+#address = {street = "Department of Economics - Yale - 28 Hillhouse Ave.", city = "New Haven", region = "CT", postcode = "06511", country = "United States", country_code = "US"}
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.

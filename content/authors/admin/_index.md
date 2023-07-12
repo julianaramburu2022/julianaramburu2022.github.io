@@ -57,10 +57,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/julian-aramburu-ab109b22/
-  
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/julianaram
 
 #- icon: github
 #  icon_pack: fab
@@ -81,8 +77,5 @@ user_groups:
 
 I am an Economist at Amazon. I obtained my Ph.D. in Economics from Yale University in May 2022.
 
-This website is not updated frequently. For updated information on my career, CV, or publications, please visit my LinkedIn or contact me directly through email.
+I do not update this website any more. For updated information on my career, CV, or publications, please visit my LinkedIn or contact me directly through email.
 
-In my academic work, I study the effects of labor market policies on workers from underrepresented groups. In one of my projects, I analyze how the most widespread employer-based affirmative action regulation in the U.S. impacts the employment prospects and earnings of minority workers. In another project, I partner with The World Bank to implement a randomized control trial to study the effectiveness of coding bootcamps for women.  
-
-Before joining Yale, I worked for three years as an impact evaluation consultant in the Rural Development unit at the Inter-American Development Bank (IADB). 
