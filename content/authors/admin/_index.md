@@ -38,7 +38,7 @@ education:
     year: 2018
   - course: B.S. in Economics
     institution: Universidad de Buenos Aires
-    year: 2011
+    year: 2011 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
