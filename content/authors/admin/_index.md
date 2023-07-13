@@ -75,7 +75,7 @@ user_groups:
 - Visitors
 ---
 
-I am an Economist at Amazon. I obtained my Ph.D. in Economics from Yale University in May 2022.
+Welcome to my website. I am an Economist at Amazon. I obtained my Ph.D. in Economics from Yale University in May 2022.
 
 I do not update this website any more. For updated information on my career, CV, or publications, please visit my LinkedIn or contact me directly through email.
 
