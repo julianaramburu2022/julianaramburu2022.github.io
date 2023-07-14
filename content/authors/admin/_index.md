@@ -19,7 +19,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests XX.
 
-interests:
+fields:
 - Applied Econometrics
 - Labor Economics
 - Development Economics
