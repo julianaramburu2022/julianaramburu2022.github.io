@@ -20,9 +20,9 @@ organizations:
 bio: My research interests XX.
 
 interests:
-- Applied Economics
-- Labor 
-- Development
+- Applied Econometrics
+- Labor Economics
+- Development Economics
 - Agricultural Economics
 
 education:
