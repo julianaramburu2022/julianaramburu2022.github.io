@@ -34,7 +34,7 @@ education:
     institution: Yale University
     year: 2018
   - course: M.A. in Economics
-    institution: Yale
+    institution: Yale University
     year: 2018
   - course: B.S. in Economics
     institution: Universidad de Buenos Aires
